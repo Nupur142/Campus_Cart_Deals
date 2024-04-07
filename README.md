@@ -32,38 +32,38 @@ Buyers and sellers can communicate directly inside the campus with their mutual 
 ### HTML, CSS, Javascript, MongoDB, Express.js, React, Node.js
 
 # Installation
-node folder
-do npm init -y  =>your package.json will be created
+Node folder<br />
+do npm init -y  =>your package.json will be created <br />
 Inside package.json, go to main: and make a file of same name
 
-Inside index.js, try console.log() and run uisng node index.js
-Go to package.json and make changes in scripts, write 
-"start":"node index.js"
-Now we cam run using npm start
+Inside index.js, try console.log() and run uisng node index.js<br />
+Go to package.json and make changes in scripts,<br />
+write "start":"node index.js"<br />
+Now we can run using npm start
 
-EXPRESSJS is backened framework of NODEJS
+EXPRESSJS is backened framework of NODEJS<br />
 Using this, we can create servers and APIs
 
-Inside node folder, go to terminal and run npm i express
+Inside node folder, go to terminal and run npm i express<br />
 //code
 
-Do npm start to start the react server that uses react scripts
-Go to app.js
+Do npm start to start the react server that uses react scripts<br />
+Go to app.js<br />
 Use window powershell
 
 Make src/componenets/header.js
 
-For multipage application, we use react router dom
-Go to index.js write the code for router dom
+For multipage application, we use react router dom<br />
+Go to index.js write the code for router dom<br />
 Go to react fold, open terminal, and type npm i react-router-dom
 
-Packages need to be installed
-npm i mongoose
-npm i nodemon
-npm i react-redux
-Used regex for searching
-npm i react-redux
-npm i react-bootstrap
+Packages need to be installed<br />
+npm i mongoose<br />
+npm i nodemon<br />
+npm i react-redux<br />
+Used regex for searching<br />
+npm i react-redux<br />
+npm i react-bootstrap<br />
 
 ## Screenshots
 ![WhatsApp Image 2024-04-05 at 10 13 56 PM](https://github.com/Nupur142/Campus_Cart_Deals/assets/91134572/f522267d-1d55-41cf-8ecf-e3b743c81b03)
